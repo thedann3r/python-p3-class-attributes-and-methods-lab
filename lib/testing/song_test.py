@@ -3,7 +3,7 @@
 from song import Song
 
 Song.count = 0
-Song.genre_count = {}
+Song.genre_count = {} 
 Song.artist_count = {}
 
 class TestSong:
